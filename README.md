@@ -2,8 +2,8 @@
 <p align="center">I see you interested in my profile? So, let me tell you a little about myself</p>
 
 <div align="center">
-  <h1>I'm Diana</h1>
-  <h2>Full Stack JavaScript Developer</h2>
+  <h1>I'm Diana</h1><span><h2>Full Stack JavaScript Developer</h2></span>
+  
 </div>
 
 
