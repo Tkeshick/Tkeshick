@@ -32,15 +32,15 @@
 <div align=center>
  <h3>My contacts: </h3>
   <a href="https://t.me/tkeshick" title="telegram">
-    <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/150/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
+    <img width=39 height=39 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/150/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
   </a>
   <a href="https://vk.com/tkeshick" title="VK">
-   <img width=43 height=43 src="https://img.icons8.com/ios-filled/150/000000/vk-circled.png"/>
+   <img width=40 height=40 src="https://img.icons8.com/ios-filled/150/000000/vk-circled.png"/>
   </a>
  <a href="https://wa.me/89811040446" title="whatsapp">
-    <img width=43 height=43  src="https://img.icons8.com/material/150/000000/whatsapp--v1.png">
+    <img width=40 height=40  src="https://img.icons8.com/material/150/000000/whatsapp--v1.png">
   </a>
   <a href="mailto:dianatkesh@gmail.com" title="send email">
-    <img width=40 height=40 src="https://www.pngmart.com/files/15/Email-Symbol-Transparent-Background.png">
+    <img width=39 height=39 src="https://www.pngmart.com/files/15/Email-Symbol-Transparent-Background.png">
   </a>
 </div>
