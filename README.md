@@ -1,4 +1,4 @@
-<h2 align="center">Greetings to the dear visitors!</h2>
+<!-- <h2 align="center">Greetings to the dear visitors!</h2>
 <p align="center">I see you interested in my profile? So, let me tell you a little about myself</p>
 <br>
 
@@ -6,4 +6,4 @@
 <br>
 <h3>Stack:</h3>
 <p>react redux node.js</p>
-
+ -->
