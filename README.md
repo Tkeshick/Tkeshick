@@ -35,7 +35,7 @@
     <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/192/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
   </a>
   <a href="https://vk.com/tkeshick" title="VK">
-    <img width=40 height=40 src="https://img.icons8.com/ios-glyphs/240/000000/whatsapp.png">
+    <img width=40 height=40 src="https://icons8.com/icon/16733/whatsapp">
   </a>
  <a href="https://wa.me/89811040446" title="whatsapp">
     <img width=40 height=40 src="">
