@@ -1,7 +1,5 @@
-<h2 align="center">Greetings to the dear visitors!</h2>
+<h3 align="center">Greetings to the dear visitors!</h2>
 <p align="center">I see you interested in my profile? So, let me tell you a little about myself</p>
-<br>
-
 
 <div align="center">
   <h1>I'm Diana</h1>
