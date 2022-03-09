@@ -32,15 +32,15 @@
 <div align=center>
  <h3>My contacts: </h3>
   <a href="https://t.me/tkeshick" title="telegram">
-    <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
+    <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/192/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
   </a>
   <a href="https://vk.com/tkeshick" title="VK">
-    <img width=40 height=40 src="https://img.icons8.com/ios-glyphs/30/000000/vk-circled.png">
+    <img width=40 height=40 src="">
   </a>
  <a href="https://wa.me/89811040446" title="whatsapp">
-    <img width=40 height=40 src="https://cdn-icons-png.flaticon.com/512/1384/1384007.png">
+    <img width=40 height=40 src="">
   </a>
   <a href="mailto:dianatkesh@gmail.com" title="send email">
-    <img width=40 height=40 src="https://img.icons8.com/ios-filled/50/000000/email-sign.png">
+    <img width=40 height=40 src="">
   </a>
 </div>
