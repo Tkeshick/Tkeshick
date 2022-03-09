@@ -1,7 +1,7 @@
 <h3 align="center">Greetings to the dear visitors!</h2>
 <p align="center">I see you interested in my profile? So, let me tell you a little about myself</p>
 
-<div align="center" style="display: inline-block">
+<div align="center">
   <h1>I'm Diana</h1>
   <span><strong>Full Stack JavaScript Developer</strong></span>
 </div>
@@ -20,7 +20,7 @@
  <img height=40 src="https://miro.medium.com/max/788/1*XkmnsJ6Joa6EDFVGUw0tfA.png">
  <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
  <img height=40 src="https://static.wikia.nocookie.net/wikies/images/a/a9/CSS3.png/revision/latest?cb=20160909123652&path-prefix=ru">
-<!--  <img height=40 src=""> -->
+ <img height=40 src="https://iconape.com/wp-content/png_logo_vector/postman.png">
 </div>
 
 <div align=center>
