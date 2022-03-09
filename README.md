@@ -17,7 +17,7 @@
  <h3>Not be superfluous: </h3>
  
 </div>
- <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkeshick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
+ <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tkeshick&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
 <div align=center>
