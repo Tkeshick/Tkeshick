@@ -3,8 +3,8 @@
 <br>
 
 
-<div>
-  <h1 align="center">I'm Diana</h1>
+<div align="center">
+  <h1>I'm Diana</h1>
   <h2>Full Stack JavaScript Developer</h2>
 </div>
 
@@ -17,11 +17,8 @@
 
 <div align=center>
  <h3>Not be superfluous: </h3>
- 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tkeshick&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
 
 <div align=center>
  <h3>My contacts: </h3>
