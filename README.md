@@ -10,15 +10,15 @@
  
 <div align=center>
  <h3>My used stack: </h3>
- <img width=40 height=40 src="https://img.icons8.com/color/48/000000/javascript--v1.png">
- <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
- <img width=40 height=40 src="https://img.icons8.com/color/480/redux.png">
- <img width=40 height=40 src="https://redux-saga.js.org/img/Redux-Saga-Logo.png">
-  <img width=40 height=40 src="https://buttercms.com/static/images/tech_banners/ExpressJS.png">
-  <img width=40 height=40 src="https://img.icons8.com/color/48/000000/postgreesql.png">
-  <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
-  <img width=40 height=40 src="https://toppng.com/uploads/preview/sequelize-logo-116093759810rkwwbipng.png">
-  <img width=40 height=40 src="">
+ <img height=40 src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+ <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+ <img height=40 src="https://img.icons8.com/color/480/redux.png">
+ <img height=40 src="https://redux-saga.js.org/img/Redux-Saga-Logo.png">
+ <img height=40 src="https://buttercms.com/static/images/tech_banners/ExpressJS.png">
+ <img height=40 src="https://img.icons8.com/color/48/000000/postgreesql.png">
+ <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+ <img height=40 src="https://toppng.com/uploads/preview/sequelize-logo-116093759810rkwwbipng.png">
+  <img height=40 src="">
 </div>
 
 <div align=center>
