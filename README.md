@@ -1,11 +1,10 @@
 <h3 align="center">Greetings to the dear visitors!</h2>
 <p align="center">I see you interested in my profile? So, let me tell you a little about myself</p>
 
-<div align="center">
-  <h1>I'm Diana</h1><span><strong>Full Stack JavaScript Developer</strong></span>
-  
+<div align="center" style="display: inline-block">
+  <h1>I'm Diana</h1>
+  <span><strong>Full Stack JavaScript Developer</strong></span>
 </div>
-
 
  
 <div align=center>
