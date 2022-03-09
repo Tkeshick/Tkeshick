@@ -7,6 +7,16 @@
 <h3>Stack:</h3>
 <p>react redux node.js</p>
  -->
+ 
+<div align=center>
+ <h3>My used stack: </h3>
+  
+</div>
+
+<div align=center>
+ <h3>Not be superfluous: </h3>
+  
+</div>
 
 
 <div align=center>
