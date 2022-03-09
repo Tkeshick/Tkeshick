@@ -35,10 +35,10 @@
     <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/192/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
   </a>
   <a href="https://vk.com/tkeshick" title="VK">
-    <img width=40 height=40 src="https://icons8.com/icon/16733/whatsapp">
+    <img width=40 height=40 src="">
   </a>
  <a href="https://wa.me/89811040446" title="whatsapp">
-    <img width=40 height=40 src="">
+    <img width=40 height=40 src="https://img.icons8.com/material/150/000000/whatsapp--v1.png">
   </a>
   <a href="mailto:dianatkesh@gmail.com" title="send email">
     <img width=40 height=40 src="">
