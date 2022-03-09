@@ -32,7 +32,7 @@
 <div align=center>
  <h3>My contacts: </h3>
   <a href="https://t.me/tkeshick" title="telegram">
-    <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/192/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
+    <img width=40 height=40 src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/150/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-bold-tal-revivo.png"/>
   </a>
   <a href="https://vk.com/tkeshick" title="VK">
     <img width=40 height=40 src="">
