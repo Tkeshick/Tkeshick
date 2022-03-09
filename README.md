@@ -18,7 +18,10 @@
  <img height=40 src="https://img.icons8.com/color/48/000000/postgreesql.png">
  <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
  <img height=40 src="https://toppng.com/uploads/preview/sequelize-logo-116093759810rkwwbipng.png">
-  <img height=40 src="">
+ <img height=40 src="https://miro.medium.com/max/788/1*XkmnsJ6Joa6EDFVGUw0tfA.png">
+ <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
+ <img height=40 src="https://static.wikia.nocookie.net/wikies/images/a/a9/CSS3.png/revision/latest?cb=20160909123652&path-prefix=ru">
+<!--  <img height=40 src=""> -->
 </div>
 
 <div align=center>
