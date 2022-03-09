@@ -41,6 +41,6 @@
     <img width=40 height=40 src="https://img.icons8.com/material/150/000000/whatsapp--v1.png">
   </a>
   <a href="mailto:dianatkesh@gmail.com" title="send email">
-    <img width=40 height=40 src="">
+    <img width=40 height=40 src="https://www.pngmart.com/files/15/Email-Symbol-Transparent-Background.png">
   </a>
 </div>
