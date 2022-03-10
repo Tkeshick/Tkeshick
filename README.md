@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>I'm Diana</h1>
-  <h3>Full Stack JavaScript Developer</h3>
+  <h3>Fullstack JavaScript Developer</h3>
 </div>
 
  
